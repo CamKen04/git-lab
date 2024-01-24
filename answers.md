@@ -35,4 +35,32 @@ Changes to be committed:
 	new file:   README.MD
 	new file:   answers.md
 
-7. 
+7. On branch master
+nothing to commit, working tree clean
+
+8. commit 7fc7015aea93f54f86300908c2852ac906db31e6
+Author: Cameron Kendrick <ck723422@ohio.edu>
+Date:   Wed Jan 24 16:24:31 2024 -0500
+
+    Initial commit
+
+9. On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+10. No they weren't.
+
+11.   ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/CamKen04/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+12. Yes they were.
+
+13. .  ..  .git  .gitignore  README.md
+
+14. 
